@@ -1,0 +1,34 @@
+{
+  "name": "sit725-2023-t2-prac4",
+  "version": "1.0.0",
+  "description": "sit725 week 4 prac",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.1.1",
+    "v20": "^0.1.0"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parulloyal/SIT725-2023-T2-Prac4.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Materialize",
+    "HTML",
+    "JS",
+    "CSS",
+    "Mongodb"
+  ],
+  "author": "Parul Loyal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parulloyal/SIT725-2023-T2-Prac4/issues"
+  },
+  "homepage": "https://github.com/parulloyal/SIT725-2023-T2-Prac4#readme"
+}
